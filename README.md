@@ -2,7 +2,7 @@
 Repositórios que considero mais úteis
 
 Estou mais uma vez planejando deixar de trabalhar com programação e cia, pelo menos como atividade principal.
-Portanto organizei todo o material que tenho guardado e divulguei aqui no Github, por ser a melhor plataforma que conheço para colaboração na área. Segue uma relação que considero mais útil, mas esta coisa geralmente varia
+Portanto organizei todo o material que tenho guardado e divulguei aqui no Github, por ser a melhor plataforma que conheço para colaboração na área. Segue uma relação que considero mais útil, mas esta coisa geralmente varia, então ao final tem as minhas duas contas no GH
 
 ## Animação 3D expetacular com JS
 https://ribafs2.github.io/animacao-3d/
@@ -71,3 +71,8 @@ https://github.com/ribafs2/matematica-prog
 ## Usando faker com PHP via web
 https://github.com/ribafs2/faker-br
 
+## Atual
+https://github.com/ribafs2?tab=repositories
+
+## Anterior
+https://github.com/ribafs?tab=repositories
