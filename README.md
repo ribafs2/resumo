@@ -1,8 +1,8 @@
 # Repositórios preferidos
 Repositórios que considero mais úteis
 
-Estou mais uma vez planejando deixar de trabalhar com programação e cia.
-Portanto organizei todo o material que tenho guardado e divulguei aqui no Github, por ser a melhor plataforma que conheço para colaboração na área.
+Estou mais uma vez planejando deixar de trabalhar com programação e cia, pelo menos como atividade principal.
+Portanto organizei todo o material que tenho guardado e divulguei aqui no Github, por ser a melhor plataforma que conheço para colaboração na área. Segue uma relação que considero mais útil, mas esta coisa geralmente varia
 
 ## Animação 3D expetacular com JS
 https://ribafs2.github.io/animacao-3d/
