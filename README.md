@@ -77,5 +77,9 @@ https://github.com/ribafs2?tab=repositories
 ## Anterior
 https://github.com/ribafs?tab=repositories
 
+## Site em elaboração
+Blog, Acordar, Informática
+https://ribamar.net.br
+
 ## Meus Livros em PDF
 Em elaboração em meu site (ribamar.net.br), 32 livros
